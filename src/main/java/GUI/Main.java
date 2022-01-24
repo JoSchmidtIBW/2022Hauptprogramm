@@ -21,7 +21,7 @@ public class Main extends Application {
         String ausgabeGesamtString = "SELECT * FROM userMubea";
         dbk1.ausgebenGesamtDB(ausgabeGesamtString);
 //********************************************************************************************************************************
-        launch();
+        launch();//
 
     }
 
