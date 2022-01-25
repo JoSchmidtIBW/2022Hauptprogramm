@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Login" />
+        <module name="ASMA" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="Login" target="16" />
+      <module name="ASMA" target="16" />
     </bytecodeTargetLevel>
   </component>
 </project>
