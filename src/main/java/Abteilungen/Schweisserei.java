@@ -30,7 +30,7 @@ public class Schweisserei {
         bRS50.setOnAction(new EventHandler<ActionEvent>() {
             public void handle(ActionEvent t) {
                 cardsPane.getChildren().clear();
-                Label lRS50 = new Label("RS50 Label");
+                Label lRS50 = new Label("RS50 - Wurde noch nicht implementiert");
                 cardsPane.getChildren().add(lRS50);
 //                cardsPane.getChildren().add(new RS50(cardsPane).macheRS50());
             }
@@ -40,7 +40,7 @@ public class Schweisserei {
         bRS65.setOnAction(new EventHandler<ActionEvent>() {
             public void handle(ActionEvent t) {
                 cardsPane.getChildren().clear();
-                Label lRS65 = new Label("RS65 Label");
+                Label lRS65 = new Label("RS65 - Wurde noch nicht implementiert");
                 cardsPane.getChildren().add(lRS65);
             }
         });
@@ -49,7 +49,7 @@ public class Schweisserei {
         bRS25.setOnAction(new EventHandler<ActionEvent>() {
             public void handle(ActionEvent t) {
                 cardsPane.getChildren().clear();
-                Label lRS25 = new Label("RS25 Label");
+                Label lRS25 = new Label("RS25 - Wurde noch nicht implementiert");
                 cardsPane.getChildren().add(lRS25);
             }
         });
@@ -58,7 +58,7 @@ public class Schweisserei {
         bRS30.setOnAction(new EventHandler<ActionEvent>() {
             public void handle(ActionEvent t) {
                 cardsPane.getChildren().clear();
-                Label lRS30 = new Label("RS30 Label");
+                Label lRS30 = new Label("RS30 - Wurde noch nicht implementiert");
                 cardsPane.getChildren().add(lRS30);
             }
         });
@@ -67,7 +67,7 @@ public class Schweisserei {
         bSpaltAnlage.setOnAction(new EventHandler<ActionEvent>() {
             public void handle(ActionEvent t) {
                 cardsPane.getChildren().clear();
-                Label lSpaltAnlage = new Label("SpaltAnlage Label");
+                Label lSpaltAnlage = new Label("SpaltAnlage - Wurde noch nicht implementiert");
                 cardsPane.getChildren().add(lSpaltAnlage);
             }
         });
